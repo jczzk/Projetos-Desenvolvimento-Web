@@ -1,17 +1,22 @@
-# Projeto 02 em HTML
+# 🌐 Projetos em HTML
 
-Este projeto foi desenvolvido com o objetivo de praticar os conceitos básicos de **HTML** e a estrutura de uma página web.
+Bem-vindo aos meus projetos de **HTML! 🚀**
 
-Durante o projeto, foram utilizadas algumas das principais tags do HTML, como:
+Este repositório reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada no **Desenvolvimento Web**. Aqui estou colocando em prática os conhecimentos adquiridos sobre a estrutura de páginas, organização de conteúdo e utilização das principais tags do HTML.
 
-* `<!DOCTYPE html>` — define que o documento utiliza HTML5.
-* `<html>` — representa o início e o fim da página HTML.
-* `<head>` — contém informações e configurações da página.
-* `<meta charset="utf-8">` — permite a utilização correta de caracteres especiais.
-* `<title>` — define o título da página exibido na aba do navegador.
-* `<body>` — contém todo o conteúdo visível da página.
-* `<h2>` e `<h4>` — utilizados para criar títulos e subtítulos.
-* `<p>` — utilizado para criar parágrafos.
-* `<br>` — utilizado para inserir quebras de linha.
+💻 **O que estou praticando:**
 
-O projeto representa uma atividade inicial de **desenvolvimento web**, focada na compreensão da estrutura básica de um documento HTML e na utilização de suas principais tags.
+* 🏗️ Estrutura básica de páginas HTML
+* 📝 Títulos, textos e parágrafos
+* 🔗 Links e navegação
+* 🖼️ Imagens e elementos multimídia
+* 📋 Listas e tabelas
+* 🧩 Organização e semântica do HTML
+* 🎨 Integração com CSS
+* ⚡ Preparação para projetos com JavaScript
+
+📚 **Objetivo:** aprender, praticar e evoluir cada vez mais no desenvolvimento web, construindo projetos do básico ao mais avançado.
+
+🚀 **Este repositório faz parte da minha jornada como estudante de Análise e Desenvolvimento de Sistemas.**
+
+> Cada projeto é mais um passo na evolução como desenvolvedor. 💻🔥
